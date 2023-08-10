@@ -8,6 +8,7 @@ body {
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
+    background-color: #ffc107;
   }
 
   .section {
@@ -25,7 +26,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background-color: #FFC107;
+    background-color: #FFC207;
     padding: 5px 10px;
     color: black;
     border: 1px solid black;
